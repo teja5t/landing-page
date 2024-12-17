@@ -1,0 +1,24 @@
+.header,
+.d1 {
+    background-color: #1F2937;
+}
+
+.d3 {
+    background-color: #E5E7EB;
+}
+
+.header {
+    display: flex;
+}
+
+.d1 {
+    display: flex;
+}
+
+.boxes {
+    display: flex;
+}
+
+.d4 {
+    display: flex;
+}
